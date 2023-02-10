@@ -1,4 +1,4 @@
-# JakLabsAssignment# Final Assignment - JakLabs QA Automation B12
+# Final Assignment - JakLabs QA Automation B12
 
 ## What you need
 
@@ -24,7 +24,7 @@ You can access at the folder:
 
 [Assignment3](https://github.com/yoshuasennaj/JakLabsAssignment/tree/main/JakLabsAssignment3)
 
-### Assignment4
+### Assignment4 (ON PROGRESS, WILL UPDATE)
 Create automation API
 You can access at the folder:
 
