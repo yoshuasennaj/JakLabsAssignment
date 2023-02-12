@@ -1,1 +1,0 @@
-{"uuid":"aa55b2c6-f4b7-42f0-8f6b-f0cb6ee44534","name":"qaautomation.december2022.BasedWebTest.tearDown","description":"","start":1675510898903,"stop":1675510898975,"children":["729fc3e2-d646-4013-a0a4-ce821215306b"],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","start":1675510898903,"stop":1675510898975}]}

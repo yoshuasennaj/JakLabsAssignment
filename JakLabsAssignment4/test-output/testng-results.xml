@@ -2,24 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-02-08T16:35:19 WIB" name="Default suite" finished-at="2023-02-08T16:35:21 WIB" duration-ms="2008">
+  <suite started-at="2023-02-12T11:57:35 WIB" name="Default suite" finished-at="2023-02-12T11:57:39 WIB" duration-ms="4203">
     <groups>
     </groups>
-    <test started-at="2023-02-08T16:35:19 WIB" name="Default test" finished-at="2023-02-08T16:35:21 WIB" duration-ms="2008">
-      <class name="jaklabs.qaautomation2022.assignment2.WebTestUsingBasedWebTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:jaklabs.qaautomation2022.assignment2.WebTestUsingBasedWebTest@4b8ee4de]" started-at="2023-02-08T16:35:19 WIB" name="setUp" finished-at="2023-02-08T16:35:20 WIB" duration-ms="1502" status="PASS">
+    <test started-at="2023-02-12T11:57:35 WIB" name="Default test" finished-at="2023-02-12T11:57:39 WIB" duration-ms="4203">
+      <class name="qaautomation.december2022.api.APITest">
+        <test-method signature="signUp()[pri:0, instance:qaautomation.december2022.api.APITest@e362c57]" started-at="2023-02-12T11:57:35 WIB" name="signUp" finished-at="2023-02-12T11:57:39 WIB" duration-ms="4162" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method signature="testFinishTransaction()[pri:0, instance:jaklabs.qaautomation2022.assignment2.WebTestUsingBasedWebTest@4b8ee4de]" started-at="2023-02-08T16:35:21 WIB" name="testFinishTransaction" finished-at="2023-02-08T16:35:21 WIB" duration-ms="369" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testFinishTransaction -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:jaklabs.qaautomation2022.assignment2.WebTestUsingBasedWebTest@4b8ee4de]" started-at="2023-02-08T16:35:21 WIB" name="tearDown" finished-at="2023-02-08T16:35:21 WIB" duration-ms="73" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- jaklabs.qaautomation2022.assignment2.WebTestUsingBasedWebTest -->
+        </test-method> <!-- signUp -->
+      </class> <!-- qaautomation.december2022.api.APITest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

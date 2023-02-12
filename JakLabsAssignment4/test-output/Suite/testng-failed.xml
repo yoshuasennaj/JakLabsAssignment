@@ -6,10 +6,9 @@
       <class name="qaautomation.december2022.WebTestUsingBasedWebTest">
         <methods>
           <include name="testSuccessLogin"/>
-          <include name="testFailedLoginWithoutPassword"/>
           <include name="tearDown"/>
-          <include name="testFailedLoginWithoutUsername"/>
           <include name="setUp"/>
+          <include name="testWrongPassword"/>
         </methods>
       </class> <!-- qaautomation.december2022.WebTestUsingBasedWebTest -->
     </classes>

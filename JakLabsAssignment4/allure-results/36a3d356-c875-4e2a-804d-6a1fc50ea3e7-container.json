@@ -1,1 +1,0 @@
-{"uuid":"36a3d356-c875-4e2a-804d-6a1fc50ea3e7","name":"jaklabs.qaautomation2022.assignment2.BasedWebTest.tearDown","description":"","start":1675832847424,"stop":1675832847501,"children":["5c50d03a-1967-49d1-94db-3b915fe0099b"],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","start":1675832847424,"stop":1675832847501}]}

@@ -3,13 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="jaklabs.qaautomation2022.assignment2.WebTestUsingBasedWebTest">
+      <class name="qaautomation.december2022.APITest">
         <methods>
-          <include name="testSuccessLogin"/>
-          <include name="tearDown"/>
-          <include name="setUp"/>
+          <include name="signUp"/>
         </methods>
-      </class> <!-- jaklabs.qaautomation2022.assignment2.WebTestUsingBasedWebTest -->
+      </class> <!-- qaautomation.december2022.APITest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -1,0 +1,1 @@
+{"uuid":"c8376ec0-46ab-4a0b-b842-f5b1e730d1d5","name":"qaautomation.december2022.BaseAPITest.loginAPI","description":"","start":1672459253044,"stop":1672459258836,"children":["39e6fb76-0ae2-417e-aad7-ef23ec505e10"],"befores":[{"name":"loginAPI","status":"passed","stage":"finished","description":"","start":1672459253044,"stop":1672459258835}]}
